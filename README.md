@@ -8,4 +8,4 @@ This version of the game uses the version 0.10.2 of love2d you can download it h
 
 you can start the game by going into the src folder and typing
 
-`love .`
+`love .` in the CLI
